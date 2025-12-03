@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889015894946",
+    "project_id": "my-todo-app-550ba",
+    "storage_bucket": "my-todo-app-550ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889015894946:android:b32e6244cd360d5c1868fb",
+        "android_client_info": {
+          "package_name": "com.riyaz.my_todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwImDYJvYVVL7uT7YSWrjxBxZ5bQhxe6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
